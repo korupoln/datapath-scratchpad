@@ -1,0 +1,4 @@
+
+This is a text file used to test our git command knowledge by plaing with it.
+
+lets go .... do some checkin, checkout and merge !! oh squash !!
