@@ -2,3 +2,6 @@
 This is a text file used to test our git command knowledge by playing with it.
 
 lets go .... do some checkin, checkout and merge !! oh squash !!
+
+just added something today after learning this.
+
